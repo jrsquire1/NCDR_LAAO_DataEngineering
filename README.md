@@ -3,4 +3,4 @@ This repository contains a Jupyter notebooks on the data engineering process for
 
 Python, Apache Spark, and the Fabric data ecosystem were used in creating this project.
 
-Included is also a version that writes to CSV files for those without a warehouse to write to.
+LAAO procedures are newer procedures and an emerging medtech field. The procedure seeks to reduce risk of stroke and need for long term medications in patient with the heart arrhythmia known as Atrial Fibrillation. 
